@@ -29,7 +29,7 @@ Step | Instruction | Screen Shot
 
 ### Step 4.3:
 
-1. Open the *index.html* file in Chrome. 
+1. Open the *index.html* file in Chrome.
 
 **NOTE:** There are a few ways to open your assignment in Chrome:
 
@@ -48,7 +48,7 @@ Step | Instruction | Screen Shot
 
 ![screencast](./images/open-chrome-from-terminal.gif)
 
-You'll want to set [Chrome as your default browser](https://support.google.com/chrome/answer/95417) if you haven't already. 
+You'll want to set [Chrome as your default browser](https://support.google.com/chrome/answer/95417) if you haven't already.
 
 
 ### Step 5:
